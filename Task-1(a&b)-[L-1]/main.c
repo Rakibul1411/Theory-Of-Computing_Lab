@@ -28,7 +28,7 @@ int main() {
             if(st[i][j] =='0' || st[i][j]=='1')
                 a++;
         }
-        printf("Length of the generated string is: %d\n\n", a);
+        printf("%d\n\n", a);
     }
 
     return 0;

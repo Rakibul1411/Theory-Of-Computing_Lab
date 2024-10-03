@@ -6,7 +6,7 @@ int main() {
     int l;
     l = rand()%100;
     char in[l];
-    printf("Enter the string and string length not exceeded:- %d\n", l);
+    printf("%d\n", l);
     printf("Enter the string :- ");
     scanf("%s", in);
     int temp=0;
